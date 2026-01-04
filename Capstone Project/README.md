@@ -96,25 +96,8 @@ School ranking visuals
 
 
 ## 📁 Repository Structure
-Capstone Project/
-│
-├── Airflow/
-│ └── enrollment_education_analytics_pipeline.py
-│
-├── Datasets/
-│ └── raw_enrollment_files.csv
-│
-├── Notebooks/
-│ ├── ingestion_notebook.ipynb
-│ ├── cleaning_notebook.ipynb
-│ └── analytics_gold_notebook.ipynb
-│
-├── Power BI/
-│ └── enrollment_dashboard.pbix
-│
-├── README.md
-└── Presentation/
-└── Final_Project_Presentation.pptx
+<img width="551" height="774" alt="image" src="https://github.com/user-attachments/assets/885dbf97-c037-42ca-86b7-6ae2f1b514ef" />
+
 
 
 ## 🚀 How to Run the Project
@@ -146,4 +129,4 @@ Capstone Project/
 
 
 ## 📌 Note
-This project is developed as part of an academic capstone and demonstrates real-world data engineering and analytics pract
+This project is developed as part of an academic capstone and demonstrates real-world data engineering and analytics practice
