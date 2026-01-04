@@ -98,30 +98,29 @@ School ranking visuals
 ## 📁 Repository Structure
 
 Capstone Project/
-    │
-    ├── Airflow/
-    │   ├── capstone.py
-    │   ├── Enrollment_Education_Analytics_Pipeline-graph.png
-    │   ├── school_enrollment_education_pipeline-graph.png
-    │   └── Integration_of_DataBricks_with_Airflow.jpg
-    │
-    ├── Notebooks/
-    │   ├── Data Ingestion.ipynb
-    │   ├── Data Cleaning Transformation.ipynb
-    │   └── Data Analytics.ipynb
-    │
-    ├── Datasets/
-    │   └── raw_enrollment_files.csv
-    │
-    ├── Power BI/
-    │   └── enrollment_dashboard.pbix
-    │
-    ├── Presentation/
-    │   └── Final_Project_Presentation.pptx
-    │
-    ├── README.md
-    │
-    └── .gitignore
+├── Airflow/
+│   ├── capstone.py
+│   ├── Enrollment_Education_Analytics_Pipeline-graph.png
+│   ├── school_enrollment_education_pipeline-graph.png
+│   └── Integration_of_DataBricks_with_Airflow.jpg
+│
+├── Notebooks/
+│   ├── Data Ingestion.ipynb
+│   ├── Data Cleaning Transformation.ipynb
+│   └── Data Analytics.ipynb
+│
+├── Datasets/
+│   └── raw_enrollment_files.csv
+│
+├── Power BI/
+│   └── enrollment_dashboard.pbix
+│
+├── Presentation/
+│   └── Final_Project_Presentation.pptx
+│
+├── README.md
+└── .gitignore
+
 
 
 
