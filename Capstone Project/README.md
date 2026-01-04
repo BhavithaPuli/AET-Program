@@ -96,7 +96,7 @@ School ranking visuals
 
 
 ## 📁 Repository Structure
-
+'''text
 Capstone Project/
 ├── Airflow/
 │   ├── capstone.py
@@ -120,8 +120,7 @@ Capstone Project/
 │
 ├── README.md
 └── .gitignore
-         '''text
-
+        
 
 
 ## 🚀 How to Run the Project
